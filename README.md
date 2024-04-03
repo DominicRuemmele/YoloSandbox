@@ -1,1 +1,1 @@
-A python implementation of Yolo image prediction to detect "Parrot heads" in a crowd
+Move a start image named "start.jpg" to the working directory, install python packages, run
